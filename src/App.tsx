@@ -1,16 +1,13 @@
-import './index.css'
-import Header from './content/Header.tsx'
+import Header from "./components/Header.tsx";
 
 function App() {
-
-
   return (
     <>
-      <div className="inline-block">
+      <div className="pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden">
         <Header />
       </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
