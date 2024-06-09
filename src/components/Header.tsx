@@ -8,7 +8,7 @@ function Header() {
         <p className="text-3xl basis-1/3">
           I'm making a note here, great success
         </p>
-        <p className="text-3xl sbasis-1/3">
+        <p className="text-3xl basis-1/3">
           It's hard to overstate my satisfaction
         </p>
       </div>
